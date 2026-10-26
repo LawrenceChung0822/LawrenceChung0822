@@ -16,7 +16,7 @@ I design content quality systems where the LLM is one layer — not the whole pi
 | | |
 |---|---|
 | 🌐 [**Personal site**](https://lawrencechung0822.github.io/) | Portfolio & writing,霞光-themed static site |
-| ⚗️ [**ai-content-precheck**](https://github.com/LawrenceChung0822/ai-content-precheck) | Interactive demo of the three-layer content pre-review architecture (rules engine runs live in-browser; LLM/human layers simulated with synthetic data) |
+| ⚗️ [**ai-content-precheck**](https://github.com/LawrenceChung0822/ai-content-precheck) · [live demo](https://lawrencechung0822.github.io/ai-content-precheck/) | Interactive demo of the three-layer content pre-review architecture (rules engine runs live in-browser; LLM/human layers simulated with synthetic data) |
 | 🎨 [**classical-bg-applier**](https://github.com/LawrenceChung0822/classical-bg-applier) | Claude Code skill for applying classical-art backgrounds |
 
 ## How I work
